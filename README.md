@@ -13,6 +13,8 @@ Users can import their own GeoJSON into the application. For the Ancient Mediter
 
 The current v1.0 supports Android and Web App.
 
+The Web App can be accessed from: [https://zsh2003818.github.io/MapQuiz/](https://zsh2003818.github.io/MapQuiz/).
+
 ## Contact
 
 Any question or suggestion is welcome. Contact: sunhao03@student.ubc.ca.
