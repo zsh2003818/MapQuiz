@@ -1,5 +1,5 @@
 # MapQuiz
-An Android App to test geographical knowledge. Support custom GeoJSON import.
+An App to test geographical knowledge. Support custom GeoJSON import.
 
 Designed specifically for Historical Geography and Classical Archaeology. It aims to overcome memory bottlenecks associated with large-scale site coordinates and highly cited reference locations in academic literature, fostering solid geospatial intuition through interactive visualization.
 
